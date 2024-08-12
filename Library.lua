@@ -517,7 +517,7 @@ do
         local CursorOuter = Library:Create('ImageLabel', {
             AnchorPoint = Vector2.new(0.5, 0.5);
             Size = UDim2.new(0, 6, 0, 6);
-            BackgroundTransparency = 1;
+            BackgroundTransparency = 0;
             Image = 'http://www.roblox.com/asset/?id=9619665977';
             ImageColor3 = Color3.new(0, 0, 0);
             ZIndex = 19;
